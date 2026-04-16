@@ -1,0 +1,1 @@
+This bash script takes in a starting directory as an argument. This app simply saves the directories from the target directory into an array, and then the aim is to reverse the array and output it without using any other built-in bash functions.
